@@ -21,15 +21,13 @@ Our project is based on a dataset of a 2019 online catalog for used cars market 
 11. Is there a relationship between the type of transmission and the price of the car?
 12. Are the diesel car prices significantly higher or lower than the gasoline car prices?
 13. Are transmission and fuel types independent or dependent?
+  
+# Sample Code
 
-# Video Walkthrough
-Users can:
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
+# Sample Data Visualizations
+
+# Sample Statistical Test
+
 
 # Tech/Framework
 <ul>
