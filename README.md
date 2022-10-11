@@ -5,7 +5,7 @@
 </p>
 
 # Project Information
-Our project is based on a dataset of a 2019 online catalog for used cars market in Belarus (eastern Europe). The dataset contains data that was parsed from car ads in an online catalog. This dataset is useful for both the buyer and the seller in the used car market in Belerus. We got our dataset from <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog">Kaggle</a>. 
+This project is based on a dataset of a 2019 online catalog for used cars market in Belarus (eastern Europe). The dataset contains data that was parsed from car ads in an online catalog. This dataset is useful for both the buyer and the seller in the used car market in Belerus. We got our dataset from <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog">Kaggle</a>. 
 
 # Questions
 1. Which region has the highest number of cars listed in the online catalog?
@@ -23,10 +23,29 @@ Our project is based on a dataset of a 2019 online catalog for used cars market 
 13. Are transmission and fuel types independent or dependent?
   
 # Sample Code
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_function.PNG">
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_pivot2.PNG">
+</p>
+
 
 # Sample Data Visualizations
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode.PNG">
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_visualization.PNG">
+</p>
 
 # Sample Statistical Test
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/chi-square-test2.PNG">
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/chi-square-results.PNG">
+</p>
 
 
 # Tech/Framework
@@ -51,3 +70,4 @@ Our project is based on a dataset of a 2019 online catalog for used cars market 
   </ul>
 
 # Notes
+View the entire project- <a href="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/CISD41_Project_3Gs_Belarus_Used_Cars.ipynb">Belarus Used Cars</a> 
