@@ -5,7 +5,7 @@
 </p>
 
 # Project Information
-This project is based on a dataset of a 2019 online catalog for used cars market in Belarus (eastern Europe). The dataset contains data that was parsed from car ads in an online catalog. This dataset is useful for both the buyer and the seller in the used car market in Belerus. We got our dataset from <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog">Kaggle</a>. 
+This project is based on a dataset of a 2019 online catalog for used cars market in Belarus (eastern Europe). The dataset contains data that was parsed from car ads in an online catalog. This dataset is useful for both the buyer and the seller in the used car market in Belerus. Our dataset is from <a href="https://www.kaggle.com/lepchenkov/usedcarscatalog">Kaggle</a>. 
 
 # Questions
 1. Which region has the highest number of cars listed in the online catalog?
@@ -23,20 +23,31 @@ This project is based on a dataset of a 2019 online catalog for used cars market
 13. Are transmission and fuel types independent or dependent?
   
 # Sample Code
+
+### Sample 1
 <p align="center">
   <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_function.PNG">
 </p>
+
+### Sample 2
 <p align="center">
   <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_pivot2.PNG">
 </p>
 
 
 # Sample Data Visualizations
+
+### Sample 1
 <p align="center">
   <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode.PNG">
 </p>
 <p align="center">
   <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/samplecode_visualization.PNG">
+</p>
+
+### Sample 2
+<p align="center">
+  <img align="center" src="https://github.com/gabrielaliera/BelarusUsedCars-Data_Analytics_Project/blob/main/pictures/linear_relationship.PNG">
 </p>
 
 # Sample Statistical Test
